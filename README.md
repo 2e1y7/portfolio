@@ -6,4 +6,4 @@
 https://ken.ieice.org/ken/paper/20220609oCkA/
 
 mail
-2024koh*gmail.com(* -> @)
+2024koh!gmail.com(! -> @)
